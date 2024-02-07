@@ -4,9 +4,12 @@
 
 ## About
 * This dive 👉 [几何光学 in 离散数学](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
-    1. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
-    2. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
+    1. Described by .ppt ⊊ 👉「1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx」
+    2. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+    <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
+    3. Involved in book ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
         * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+    
 
 ## Description
 * Three e-books written in my freshman year
