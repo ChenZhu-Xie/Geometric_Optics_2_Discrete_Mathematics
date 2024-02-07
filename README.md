@@ -1,37 +1,67 @@
-# From 几何光学 to 离散数学
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『Book 3』's『Special Relativity』related『Sections』")
 
-#### 介绍
-几何光学 in 离散数学 VS 波动光学 in 偏微分方程 (PDEs)
+# Three e-books on mathematics, physics, and programming (C++)
 
-#### 软件架构
-软件架构说明
+## About
+* This dive 👉 [几何光学 in 离散数学](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    1. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+    2. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
+        * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 
+## Description
+* Three e-books written in my freshman year
+    * have freely explored mathematics (geometry & algebra), physics, and programming
+    * generated through Word_2_Pdf :sweat_smile:...
+    * the 2nd book『Illusions_of_Illustrations_·_Zodiac』contains C++ codes.
 
-#### 安装教程
+* 『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』
+    * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』") 
+* 『Book 1』's『Multinomial theorem』related『Sections』
+    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『Book 1』's『Multinomial theorem』related『Sections』")
+
+## Inplementation
+1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
+2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
+    * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
+    * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
+
+## History
+* These 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp) were written
+    * (Personal time) by 18~19-year-old little Xie
+        * 18-year-&-6-month-old to 19-year-&-4-month-old 
+    * (Personal stage) in grades 1-2 of undergraduate studies
+        * First year of undergraduate (Enrollment until the start of sophomore year)
+    * (World time) approximately during 2016-2017
+        * 2016.10 - 2016.12 - 2017.08
+
+<!-- ## Software Architecture
+Software architecture description
+
+## Installation
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### 使用说明
+## Instructions
 
 1.  xxxx
 2.  xxxx
 3.  xxxx
 
-#### 参与贡献
+## Contribution
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  Fork the repository
+2.  Create Feat_xxx branch
+3.  Commit your code
+4.  Create Pull Request
 
 
-#### 特技
+## Gitee Feature
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
+2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
+3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
+4.  The most valuable open source project [GVP](https://gitee.com/gvp)
+5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
+6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/) -->
