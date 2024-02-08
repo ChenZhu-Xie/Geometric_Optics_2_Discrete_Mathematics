@@ -25,9 +25,9 @@
 2. 光学拓展：『含缺口的积分球』➞『有出口的迷宫』
     * 相同的结论，适用于『其他任何形状』，如『迷宫形』谐振腔
     * 也就是说，『黑体形状』不一定是『球形』，其内部可以『任意复杂』
-        * 若光源在迷宫内部，则光线 "可能解/出不了该迷宫"
-        * 见案例 [用一条光线解迷宫](https://phydemo.app/ray-optics/cn/gallery/maze-solution)
-        * 若光源在迷宫外部，则光线 "一定能再次从迷宫口出来"
+        * 若光源『在迷宫内部』，则光线 "可能解/出不了该迷宫"
+        * 见案例『[用一条光线解迷宫](https://phydemo.app/ray-optics/cn/gallery/maze-solution)』
+        * 若光源『在迷宫外部』，则光线 "一定能再次从迷宫口出来"
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_1.1.png "What goes up, must come down.")
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_2.1.png "What goes in, must come out.")
 3. 数学拓展：『二元』➞『多元』一次不定方程

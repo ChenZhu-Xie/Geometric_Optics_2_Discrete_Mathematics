@@ -26,7 +26,7 @@
     * The same conclusion applies to『any other shape』, such as a『labyrinth-shaped cavity』
     * That is to say, the shape of a blackbody may not necessarily be spherical
         * If the light source is『inside the maze』, the light『may not be able to solve/escape the maze』
-        * See the case [Maze solution](https://phydemo.app/ray-optics/cn/gallery/maze-solution)
+        * See the case『[Maze solution](https://phydemo.app/ray-optics/cn/gallery/maze-solution)』
         * If the light source is『outside the maze』, then the light『can definitely come out of the maze again』
         * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_1.1.png "What goes up, must come down.")
         * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_2.1.png "What goes in, must come out.")
