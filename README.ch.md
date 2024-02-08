@@ -16,22 +16,23 @@
     * 利用『辗转相除法』理解：不封口的『杜瓦瓶』内的『银镜内壁』，对光的『多重反射』
 * 讨论了 代数（数学）在 几何（光学）中的 用武之地
     * 光源在外部：从外部射入『纯反射黑体』，光最终会从缺口处出来，为什么？
-    * 光源在内部：光源在『纯反射黑体』内部，光不一定会从缺口出来，条件是什么？
+    * 光源在内部：光源在『纯反射黑体』内部，光不一定会从缺口出来，条件是？
 
 ## 实施
 1. 思想上：将『球面凹反镜黑体』内的『光学过程』转换/抽象为『数学过程』
     * 见「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」中的动画
     * 见「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」第 8 页『圆向量的起源』
 2. 光学拓展：『含缺口的积分球』➞『有出口的迷宫』
-* 『黑体形状』不一定是『球形』= 相同的结论，适用于『其他任何形状』，如『迷宫形』谐振腔
+* 相同的结论，适用于『其他任何形状』，如『迷宫形』谐振腔
+* 也就是说，『黑体形状』不一定是『球形』，其内部可以『任意复杂』
     * 若光源在迷宫内部，则光线 "可能解/出不了该迷宫"
-        * 见案例 ![fig](https://phydemo.app/ray-optics/cn/gallery/maze-solution "用一条光线解迷宫")
+        * 见案例 [用一条光线解迷宫](https://phydemo.app/ray-optics/cn/gallery/maze-solution)
     * 若光源在迷宫外部，则光线 "一定能再次从迷宫口出来"
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_1.1.png "What goes up, must come down.")
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_2.1.png "What goes in, must come out.")
 3. 数学拓展：『二元』➞『多元』一次不定方程
 * 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
-* 使用 Visual C++ 6.0 运行里面的「12.第10个程序的改良版(2+5+8b).cpp」；更准确地说，
+* 使用 Visual C++ 6.0 运行里面的「12.第10个程序的改良版(2+5+8b).cpp」；准确地说，
     * 使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
     * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
 * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/book_2-6.png "『多重·辗转相除法』解『多元·一次不定方程』")
