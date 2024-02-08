@@ -30,12 +30,13 @@
         * If the light source is『outside the maze』, then the light『can definitely come out of the maze again』
         * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_1.1.png "What goes up, must come down.")
         * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_2.1.png "What goes in, must come out.")
-3. Mathematical Expansion:『Bivariate』to『Multivariate』linear indeterminate equation
+3. Mathematical Expansion:『Bivariate』to『Multivariate』linear indeterminate equation ('s Special/General solution)
     * Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
     * Run「12.第10个程序的改良版(2+5+8b).cpp」inside using Visual C++ 6.0, or rather,
         * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
         * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
     * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/book_2-6.png "『Multiple Euclidean algorithm』solve『Multivariate linear indeterminate equation』")
+    * See page 10 of「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
 
 ## History
 * This dive 👉 [『Geometric optics』in『Discrete mathematics』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
