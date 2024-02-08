@@ -1,65 +1,32 @@
-# LaTeX build files
-*.aux
-*.log
-*.toc
-*.out
-*.synctex.gz
-*.synctex(busy)
-*.acn
-*.acr
-*.alg
-*.bbl
-*.blg
-*.glg
-*.glo
-*.gls
-*.ist
-*.lof
-*.lot
-*.maf
-*.mtc
-*.mtc1
-*.nlg
-*.nlo
-*.slg
+# Prerequisites
+*.d
+
+# Compiled Object files
 *.slo
-*.stg
-*.stt
-*.xdy
-*.tdo
-*.fls
-*.fdb_latexmk
-.DS_Store
-.texpadtmp
-.glx
-.bit
-.gxg
-.gxs
-.idx
-.ilg
-.ind
-.url
-.svn
+*.lo
+*.o
+*.obj
 
-# Generated files
-*.dvi
-*.ps
-# *.pdf
+# Precompiled Headers
+*.gch
+*.pch
 
-# Editor and IDE files
-*.swp
-*~
-.#*
-*.bak
-*.backup
-*.sav
-*.tmproj
-*.tmproj.*
-*.sublime-workspace
-*.sublime-project
-.vscode/
-.idea/
-*.bak
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
+# Fortran module files
+*.mod
+*.smod
 
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
+# Executables
+*.exe
+*.out
+*.app

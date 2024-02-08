@@ -1,41 +1,47 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_3_cover.png "『Book 3』's『Special Relativity』related『Sections』")
+![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/1.cover.png "Multiple Euclidean algorithm runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』")
 
-# Three e-books on mathematics, physics, and programming (C++)
+# An expedition ☛『Discrete Mathematics』in『Geometric Optics』
 
 ## About
-* This dive 👉 [几何光学 in 离散数学](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
-    1. Described by .ppt ⊊ 👉「1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx」
+* This dive 👉 [『Geometric optics』in『Discrete mathematics』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    <!-- 1. Described by .ppt ⊊ 👉「1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx」 -->
+    1. Described by .ppt ⊊ 👉「1.『Multiple Euclidean algorithm』runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』.pptx」
     2. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
     <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
     3. Involved in book ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
-        * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
+        * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
     
-
 ## Description
-* Three e-books written in my freshman year
-    * have freely explored mathematics (geometry & algebra), physics, and programming
-    * generated through Word_2_Pdf :sweat_smile:...
-    * the 2nd book『Illusions_of_Illustrations_·_Zodiac』contains C++ codes.
-
-* 『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』
-    * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/3_books_with_cpp/master/img/book_2-5.png "『Book 2』's『Partitions: 1+6= 2+5= ...= 7』related『Sections』") 
-* 『Book 1』's『Multinomial theorem』related『Sections』
-    * ![fig](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/raw/master/img/book_2-4.png "『Book 1』's『Multinomial theorem』related『Sections』")
+* 『This exploration process』is one of『the examples of the second book』
+    * Using『Euclidean algorithm』to understand the『Multiple reflections』of light from the『Inner wall of the silver mirror』in the unsealed『Dewar bottle』
+* Discussed the application of algebra (mathematics) in geometry (optics)
+    * External light source: when it enters the『pure reflection blackbody』from the outside, the light will eventually come out from the gap. Why?
+    * Internal light source: when the source is inside the『pure reflection blackbody』,light may not necessarily come out from the gap. What are the corresponding conditions?
 
 ## Inplementation
-1. Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
-2. Open any of the 12 programs inside using Visual C++ 6.0, to be more precise, 
+1. Ideological perspective: Abstract the『optical process』in『concave mirror』into『mathematical process』
+    * See the animation in file「Multiple Euclidean algorithm runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』.pptx」
+    * See the content『The origin of the circular vector』on page 8 of「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
+2. Optical Expansion:『Integral Sphere with Notches』➞『Maze with Exits』
+* The same conclusion applies to『any other shape』, such as a『labyrinth-shaped cavity』
+* That is to say, the shape of a blackbody may not necessarily be spherical
+    * If the light source is『inside the maze』, the light『may not be able to solve/escape the maze』
+        * See the case ![fig](https://phydemo.app/ray-optics/cn/gallery/maze-solution "Maze solution")
+    * If the light source is『outside the maze』, then the light『can definitely come out of the maze again』
+        * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_1.1.png "What goes up, must come down.")
+        * ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/maze_2.1.png "What goes in, must come out.")
+3. Mathematical Expansion:『Bivariate』to『Multivariate』linear indeterminate equation
+* Open the folder "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』".
+* Run「12.第10个程序的改良版(2+5+8b).cpp」inside using Visual C++ 6.0, to be more precise, 
     * using `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`.
     * [VC6.0 Download & Setup](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA) ; Higher version of C++ is recommended, but may not be able to run this project?
+* ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/book_2-6.png "『Multiple Euclidean algorithm』solve『Multivariate linear indeterminate equation』")
 
 ## History
-* These 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp) were written
-    * (Personal time) by 18~19-year-old little Xie
-        * 18-year-&-6-month-old to 19-year-&-4-month-old 
-    * (Personal stage) in grades 1-2 of undergraduate studies
-        * First year of undergraduate (Enrollment until the start of sophomore year)
-    * (World time) approximately during 2016-2017
-        * 2016.10 - 2016.12 - 2017.08
+* This dive 👉 [『Geometric optics』in『Discrete mathematics』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    * (Personal time) 25-year_10-month-old
+    * (Personal stage) Ph.D. 2nd Grade Winter Vacation (1.5 / 3.0)
+    * (World time) 2024.02
 
 <!-- ## Software Architecture
 Software architecture description
