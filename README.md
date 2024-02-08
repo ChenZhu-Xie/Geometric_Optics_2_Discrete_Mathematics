@@ -7,6 +7,9 @@
     <!-- 1. Described by .ppt ⊊ 👉「1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx」 -->
     1. Described by .ppt ⊊ 👉「1.『Multiple Euclidean algorithm』runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』.pptx」
     2. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
+        * Links to model ✉ 👉 [NLAST-vector model (Private)](https://github.com/ChenZhu-Xie/NLAST_private)
+            * Contains paper ⊋ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
+            * 『Wave Optics』in『Partial Differential Equations (PDEs)』
     <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
     3. Involved in book ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
         * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
