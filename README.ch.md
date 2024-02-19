@@ -13,7 +13,7 @@
                 * 『波动光学』in『偏微分方程 (PDEs)』
     <!-- 3. 在书中涉及 ⊊ [Ray & Wave Optics simulation](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx) -->
     3. 在书中涉及 ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
-        * 被书们包含 ⊂ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+        * 被书们包含 ⊂ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 * English「README」ⓔ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
 
 ## 介绍
