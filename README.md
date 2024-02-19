@@ -14,7 +14,8 @@
     <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
     3. Involved in book ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
         * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
-    
+* 中文「自述文档」㊥ 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+
 ## Description
 * 『This exploration process』is one of『the examples of the second book』
     * Using『Euclidean algorithm』to understand the『Multiple reflections』of light from the『Inner wall of the silver mirror』in the unsealed『Dewar bottle』
