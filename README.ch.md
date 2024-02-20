@@ -7,7 +7,7 @@
 * 该探索过程 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
     1. 由 .ppt 描述 ⊊ 👉[「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx)
     2. 使用模拟器 ⊷ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
-        * 被 .pptx 使用 ⊶ 👉[「A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx」](https://gitee.com/ChenZhu-Xie/ray_optics__xcz/raw/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
+        * 被 .pptx 使用 ⊶ 👉[「A_guided_tour_to_Ray_&_Wave_Optics_Simulation」](https://gitee.com/ChenZhu-Xie/ray_optics__xcz/raw/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
             * 链接到模型 ✉ 👉 [NLAST-vector 模型 (私有)](https://gitee.com/ChenZhu-Xie/NLAST_private)
                 * 包含文章 ⊋ 👉 [Berry-Mcleod 文章 (私有)](https://gitee.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
                 * 『波动光学』in『偏微分方程 (PDEs)』
@@ -25,8 +25,8 @@
 
 ## 实施
 1. 思想上：将『球面凹反镜黑体』内的『光学过程』转换/抽象为『数学过程』
-    * 见「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」中的动画
-    * 见「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」第 8 页『圆向量的起源』
+    * 见[「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx)中的动画
+    * 见 [2.『Illusions_of_Illustrations_·_Zodiac』.pdf](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf) 第 8 页『圆向量的起源』
 2. 光学拓展：『含缺口的积分球』➞『有出口的迷宫』
     * 相同的结论，适用于『其他任何形状』，如『迷宫形』谐振腔
     * 也就是说，『黑体形状』不一定是『球形』，其内部可以『任意复杂』
@@ -36,12 +36,12 @@
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_1.1.png "What goes up, must come down.")
         * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/maze_2.1.png "What goes in, must come out.")
 3. 数学拓展：『二元』➞『多元』一次不定方程 の『特解 & 通解』
-    * 打开 文件夹 "cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』"。
-    * 使用 Visual C++ 6.0 运行里面的「12.第10个程序的改良版(2+5+8b).cpp」
+    * 打开 文件夹 "[cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)"。
+    * 使用 Visual C++ 6.0 运行里面的[「12.第10个程序的改良版(2+5+8b).cpp」](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/12.第10个程序的改良版(2+5+8b).cpp)
         * 即使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
         * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
     * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/book_2-6.png "『多重·辗转相除法』解『多元·一次不定方程』")
-    * 见「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」第 10 页『多元一次不定方程及“超级辗转相除法”』
+    * 见 [2.『Illusions_of_Illustrations_·_Zodiac』.pdf](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf) 第 10 页『多元一次不定方程及“超级辗转相除法”』
 
 ## 历史
 * 这次探索 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
