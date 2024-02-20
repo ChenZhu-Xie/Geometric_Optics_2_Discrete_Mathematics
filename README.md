@@ -5,14 +5,14 @@
 ## About
 * This dive 👉 [『Geometric optics』in『Discrete mathematics』](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
     <!-- 1. Described by .ppt ⊊ 👉「1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx」 -->
-    1. Described by .ppt ⊊ 👉「1.『Multiple Euclidean algorithm』runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』.pptx」
+    1. Described by .ppt ⊊ 👉[「1.『Multiple Euclidean algorithm』runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』.pptx」](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx)
     2. Utilizes simulator ⊷ 👉 [2D ray-optics simulation](https://github.com/ChenZhu-Xie/ray_optics__xcz)
-        * Utilized by .ppt ⊶ 👉「A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx」
+        * Utilized by .ppt ⊶ 👉[「A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx」](https://github.com/ChenZhu-Xie/ray_optics__xcz/raw/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
             * Links to model ✉ 👉 [NLAST-vector model (Private)](https://github.com/ChenZhu-Xie/NLAST_private)
                 * Contains paper ⊋ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
                 * 『Wave Optics』in『Partial Differential Equations (PDEs)』
     <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
-    3. Involved in book ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
+    3. Involved in book ⊊ 👉 [Illusions_of_Illustrations_·_Zodiac](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
         * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
 * 中文「自述文档」㊥ 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
 

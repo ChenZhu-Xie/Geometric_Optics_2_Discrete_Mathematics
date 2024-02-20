@@ -4,15 +4,15 @@
 # 一场探索 ☛『几何光学』中的『离散数学』
 
 ## 关于
-* 该探索过程 👉 [『Geometric optics』in『Discrete mathematics』](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
-    1. 由 .ppt 描述 ⊊ 👉「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」
+* 该探索过程 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
+    1. 由 .ppt 描述 ⊊ 👉[「1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx」](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx)
     2. 使用模拟器 ⊷ 👉 [2D 射線追蹤 模拟](https://gitee.com/ChenZhu-Xie/ray_optics__xcz)
-        * 被 .pptx 使用 ⊶ 👉「A_guided_tour_to_Ray_&_Wave_Optics_Simulation」
+        * 被 .pptx 使用 ⊶ 👉[「A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx」](https://gitee.com/ChenZhu-Xie/ray_optics__xcz/raw/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx)
             * 链接到模型 ✉ 👉 [NLAST-vector 模型 (私有)](https://gitee.com/ChenZhu-Xie/NLAST_private)
                 * 包含文章 ⊋ 👉 [Berry-Mcleod 文章 (私有)](https://gitee.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
                 * 『波动光学』in『偏微分方程 (PDEs)』
     <!-- 3. 在书中涉及 ⊊ [Ray & Wave Optics simulation](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx) -->
-    3. 在书中涉及 ⊊ 👉「2.『Illusions_of_Illustrations_·_Zodiac』.pdf」
+    3. 在书中涉及 ⊊ 👉 [Illusions_of_Illustrations_·_Zodiac](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
         * 被书们包含 ⊂ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
 * English「README」ⓔ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
 
