@@ -1,4 +1,4 @@
-![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/1.cover.png "Multiple Euclidean algorithm runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』")
+[![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/1.cover.png "Multiple Euclidean algorithm runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』")](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx "Multiple Euclidean algorithm runs automatically in『Dewar bottle』=『pure-reflection non-absorbing notched blackbody』")
 
 # An expedition ☛『Discrete Mathematics』in『Geometric Optics』
 

@@ -1,5 +1,5 @@
 <!-- ![fig](https://raw.githubusercontent.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/img/1.cover.png "『第三本书』的『狭义相对论』相关『章节』") -->
-![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/1.cover.png "『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中")
+[![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/1.cover.png "『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中")](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/1.『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中.pptx "『多重·辗转相除法』自动运行在『杜瓦瓶』=『纯反射∧无吸收の含缺口の黑体』中")
 
 # 一场探索 ☛『几何光学』中的『离散数学』
 
