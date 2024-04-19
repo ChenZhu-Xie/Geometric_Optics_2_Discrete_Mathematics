@@ -14,7 +14,8 @@
     <!-- 3. 在书中涉及 ⊊ [Ray & Wave Optics simulation](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/A_guided_tour_to_Ray_&_Wave_Optics_Simulation.pptx) -->
     3. 在书中涉及 ⊊ 👉 [Illusions_of_Illustrations_·_Zodiac](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
         * 被书们包含 ⊂ 👉 [三本 电子书](https://gitee.com/ChenZhu-Xie/3_books_with_cpp)
-    4. 可能有关于 ✉ 👉[「不可单点照亮」的「彭罗斯房间」](https://www.bilibili.com/video/BV18p421d7NK)
+    4. 属于生涯 ⊊ 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities)
+    5. 可能有关于 ✉ 👉[「不可单点照亮」的「彭罗斯房间」](https://www.bilibili.com/video/BV18p421d7NK)
 * English「README」ⓔ 👉 [Berry-Mcleod paper (Private)](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
 
 ## 介绍

@@ -14,7 +14,8 @@
     <!-- 3. Involved in book ⊊ 👉 [Ray & Wave Optics simulation](https://github.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/master/1.多重_·_辗转相除法_自动运行在「杜瓦瓶」=「纯反射∧无吸收の含缺口の黑体」中.pptx) -->
     3. Involved in book ⊊ 👉 [Illusions_of_Illustrations_·_Zodiac](https://github.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』)
         * Contained by books ⊂ 👉 [three e-books](https://github.com/ChenZhu-Xie/3_books_with_cpp)
-    4. Linked to ✉ 👉[「Penrose's room」that「cannot be illuminated by a single point」](https://www.bilibili.com/video/BV18p421d7NK)
+    4. Belongs to Career ⊊ 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
+    5. Linked to ✉ 👉[「Penrose's room」that「cannot be illuminated by a single point」](https://www.bilibili.com/video/BV18p421d7NK)
 * 中文「自述文档」㊥ 👉 [几何光学 in 离散数学](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics)
 
 ## Description
