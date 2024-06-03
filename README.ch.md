@@ -42,7 +42,7 @@
     * 使用 Visual C++ 6.0 运行里面的[「12.第10个程序的改良版(2+5+8b).cpp」](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2『Illusions_of_Illustrations_·_Zodiac』/12.第10个程序的改良版(2+5+8b).cpp)
         * 即使用 `Microsoft Visual Studio C++ 6.0\Common\MSDev98\Bin\MSDEV.EXE`。
         * [VC6.0 下载 & 安装](https://mp.weixin.qq.com/s/6YNbpj6RlCNh9zZd5K1wQA)；也推荐使用更高版本的 C++，但可能无法运行此旧程序？
-    * ![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/book_2-6.png "『多重·辗转相除法』解『多元·一次不定方程』")
+    * [![fig](https://gitee.com/ChenZhu-Xie/geometric_optics_2_discrete_mathematics/raw/master/img/book_2-6.png "『多重·辗转相除法』解『多元·一次不定方程』")](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/cpp_codes_for_book2%E3%80%8EIllusions_of_Illustrations_%C2%B7_Zodiac%E3%80%8F/12.%E7%AC%AC10%E4%B8%AA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%94%B9%E8%89%AF%E7%89%88(2%2B5%2B8b).cpp "『多重·辗转相除法』解『多元·一次不定方程』")
     * 见 [2.『Illusions_of_Illustrations_·_Zodiac』.pdf](https://gitee.com/ChenZhu-Xie/3_books_with_cpp/tree/master/2.『Illusions_of_Illustrations_·_Zodiac』(C++).pdf) 第 10 页『多元一次不定方程及“超级辗转相除法”』
 
 ## 历史
